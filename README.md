@@ -3,6 +3,9 @@ this is a human human skeleton 3d model, Support multiple perspectives, Support 
 # envirment
 envirment: visual studio; dependent :glut32 
 
+# demo
+Kinematics.exe is a executable file
+
 glut use detail：
 https://blog.csdn.net/sophiale07/article/details/44946111
 
