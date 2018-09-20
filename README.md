@@ -20,3 +20,7 @@ https://blog.csdn.net/ryfdizuo/article/details/7368057/
 http://dgraves.org/coursework/cs266
 
 
+
+这个一个实现3D人物行走的demo, 基于一个大神的工程稍微做了一点修改，整理了一下依赖，
+
+依赖 glut32的库，需要下载到本地，并拷贝到相应的路径，见上文英文描述。
